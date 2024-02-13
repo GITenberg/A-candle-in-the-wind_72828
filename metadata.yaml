@@ -1,0 +1,31 @@
+_repo: A-candle-in-the-wind_72828
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Taylor, Mary Imlay
+    alias: Taylor, M. Imlay (Mary Imlay)
+    birthdate: 1878
+    deathdate: 1938
+    gutenberg_agent_id: '48463'
+    url: http://www.gutenberg.org/2009/agents/48463
+description: ''
+gutenberg_issued: '2024-01-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72828'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=nyp.33433112007434&view=1up&seq=1
+pgterms:marc905: 20221014164532taylor
+pgterms:marc906: '1919'
+pgterms:marc907: us
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aUnited States :$bMoffat, Yard and Company, $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A candle in the wind
+url: http://www.gutenberg.org/ebooks/72828
